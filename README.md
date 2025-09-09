@@ -412,7 +412,6 @@ const currentUser = 'Grace Hopper';
 
 ...
 
-const shortGreeting = `Welcome, ${currentUser.slice(0, 1)}!`;
 ```
 
 After you have all the tests passing, remember to commit and push your changes
